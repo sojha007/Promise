@@ -1,0 +1,8 @@
+{
+  "id": 169,
+  "name": "Cognac Show",
+  "subject": "Cognac Show",
+  "body": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>COGNAC</title>\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n    <link href=\"https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap\" rel=\"stylesheet\">\n</head>\n<body>\n    <div style=\"background-color:#fff;padding:20px;\">\n        <img src=\"https://kflowqa-api.azurewebsites.net/image/0c448941-69d7-4ab3-a423-9a736dcada4e\" style=\"width:100%;\">\n        <div style=\"background-color:#fff;padding:10px;\"> \n            <p style=\"font-family: 'Josefin Sans', sans-serif;\">\n                Thank you for submitting your forms for The Whisky Exchange Event Cognac Show.\n                <br><br>Your forms have been received and will now be reviewed by a member of the team. Should any details be incorrect or require further evidence, we will reassign the corresponding form(s) to you for more information as required.\n                <br><br>If at any time the information supplied should change (brand name, SKUs being showcased, attendee, etc.), please contact a member of the events team who can assist you.\n                <br><br>If you have any questions about the show, then please contact us.\n                <br><br>Best regards,\n                <br><br>Cognac Show Team\n            </p>\n        </div>\n    </div>\n</body>\n</html>",
+  "emailProviderId": 1,
+  "active": true
+}
